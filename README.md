@@ -23,7 +23,8 @@ O projeto consiste nos seguintes arquivos principais:
 
 ## Conteúdo  
 - Textos 100% autorais com base em pesquisas oficiais (IBGE, EMBRAPA)  
-- Imagens geradas por ferramentas de IA (ChatGPT, Gemini) devidamente marcadas nos atributos `alt`  
+- Imagens geradas por ferramentas de IA (ChatGPT, Gemini)
+- Os ícones utilizados neste projeto foram obtidos de Flaticon.
 
 ## Como Visualizar  
 1. Certifique-se de que todos os arquivos estão na mesma pasta  
