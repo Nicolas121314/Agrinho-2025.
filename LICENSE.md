@@ -11,7 +11,7 @@ cópias, sob as seguintes condições:
    - As imagens foram geradas por ferramentas de Inteligência Artificial (IA),
      como ChatGPT, Gemini e outros modelos, e não possuem restrições adicionais
      de uso.
-   -Os ícones utilizados neste projeto foram obtidos de Flaticon.
+   - Os ícones utilizados neste projeto foram obtidos de Flaticon.
 
 2. Sem Garantias:
    - Este projeto é fornecido "no estado em que se encontra", sem garantias de
